@@ -1,4 +1,4 @@
-#Alexander Uribe 14/04/2025
+#Madeline Toledo 14/04/2025
 
 num_elefante = int(input("¿Cuántos elefantes quieres que canten? : "))
 

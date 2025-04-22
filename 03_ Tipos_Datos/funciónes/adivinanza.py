@@ -1,4 +1,4 @@
-#Alexander Uribe 07/04/2025
+#Madeline Toledo 07/04/2025
 
 adivinanza = 0
 intentos = 0
